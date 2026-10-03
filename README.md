@@ -76,9 +76,6 @@ Currently I'm focused on becoming a **Full-Stack AI Engineer**, while strengthen
 
 **Frontend → Full Stack → AI Engineering**
 
-### ⚡ My Rule
-
-> **Don't just watch it. Build it.**
 
 </td>
 

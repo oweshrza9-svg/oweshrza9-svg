@@ -1,20 +1,23 @@
 <div align="center">
 
-# 👋 Hi, I'm Ovesh Siddiqui
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161616,50:713b12,100:d0783f&height=180&section=header&text=OVESH%20SIDDIQUI&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn"/>
 
-### Frontend Developer | AI & Software Engineering
+<h2>Frontend Developer • AI & Software Engineering</h2>
 
-I build interactive web experiences, experiment with AI,
-and turn ideas into things that actually work.
+<p>
+I build interactive web experiences and I'm currently moving deeper into
+<br>
+<strong>AI, LLMs and full-stack development.</strong>
+</p>
 
 <br>
 
 <a href="https://github.com/oweshrza9-svg">
-  <img src="https://img.shields.io/badge/GitHub-oweshrza9--svg-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -24,58 +27,59 @@ and turn ideas into things that actually work.
 <table>
 <tr>
 
-<td width="32%" align="center" valign="top">
+<td width="35%" align="center" valign="top">
 
-<img src="https://github.com/oweshrza9-svg.png" width="180">
+<img src="https://github.com/oweshrza9-svg.png" width="190"/>
 
 <br><br>
 
-### 🧑‍💻 Ovesh Siddiqui
+# Ovesh Siddiqui
 
-**Frontend Developer**
+### 🇮🇳 India
 
-🇮🇳 India
+`Frontend Developer`
 
-<br>
+`AI Explorer`
 
-🎓 BCA Student
-
-💻 Web Development
-
-🤖 AI / ML Explorer
-
-🚀 Builder
+`Builder`
 
 <br>
 
----
+### Currently
 
-### ⚡ Currently
+🟢 **Building Aether**
 
-**Building → Learning → Breaking → Rebuilding**
+🤖 AI Desktop Companion
 
 </td>
 
-<td width="68%" valign="top">
+<td width="65%" valign="top">
 
-# 🧠 About Me
+# Hey 👋
 
-I'm a developer who enjoys building things that are a little more interesting than the usual tutorial projects.
+I'm **Ovesh**, a frontend developer who enjoys turning ideas into
+interactive products.
 
-Currently I'm focused on becoming a **Full-Stack AI Engineer**, while strengthening my frontend and JavaScript fundamentals through real projects.
+I started with frontend development and I'm now expanding toward
+**backend development, Python and AI engineering.**
 
-### 🌱 Currently Learning
+### 🔭 Currently working on
+
+**Aether** — an AI desktop companion exploring:
+
+`LLM` `Memory` `Voice` `Avatars` `Automation`
+
+### 🌱 Currently learning
 
 `JavaScript` `React` `TypeScript` `Python`
 
 ### 🧠 Exploring
 
-`AI/ML` `LLMs` `RAG` `AI Agents`
+`AI / ML` `LLMs` `RAG` `AI Agents`
 
-### 🎯 Current Goal
+### ⚡ I like building
 
-**Frontend → Full Stack → AI Engineering**
-
+Things that are more interesting than another Todo App.
 
 </td>
 
@@ -84,114 +88,75 @@ Currently I'm focused on becoming a **Full-Stack AI Engineer**, while strengthen
 
 ---
 
-# 🛠️ Languages & Tools
+# 🧰 Languages & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,express,mongodb,mysql,python,java,c,cpp,git,github,vscode&perline=9">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,express,mongodb,mysql,python,java,c,cpp,git,github,vscode&perline=9"/>
 
 </div>
 
 ---
 
-# 🚀 Things I've Built
+# 🚀 Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🍽️ Apito's Restaurant
+<h2>🍽️ Apito's Restaurant</h2>
 
-### Premium Restaurant Experience
+<p><strong>Premium Restaurant Showcase</strong></p>
 
-A restaurant showcase built with **vanilla JavaScript**.
+<p>
+A responsive restaurant experience built with
+<strong>Vanilla JavaScript</strong>.
+</p>
 
-Instead of making a basic restaurant page, I built:
+<img src="https://github.com/oweshrza9-svg/Restourount-showcase-app/raw/main/img/hero-mid-img.jpg" width="100%"/>
 
-- Dynamic menu rendering
-- Interactive carousel
-- Top-rated dishes
-- Bento-style layout
-- Responsive design
-- DOM interactions
-- Animated popups
-
-**Stack**
+<br><br>
 
 `HTML` `CSS` `JavaScript`
+
+<br><br>
+
+• Dynamic menu rendering  
+• Interactive carousel  
+• Top-rated dishes  
+• Bento layout  
+• Responsive design  
+• Interactive popups  
 
 <br>
 
 <a href="https://github.com/oweshrza9-svg/Restourount-showcase-app">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-d0783f?style=for-the-badge">
+<strong>↗ View Repository</strong>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🗂️ DropVault
+<h2>🗂️ DropVault</h2>
 
-### Dropshipping Lead Manager
+<p><strong>Chrome Extension for Dropshipping Leads</strong></p>
 
-A Chrome extension designed to help dropshippers save and organize useful product leads.
-
-**Features**
-
-- Save browser tabs
-- Store lead information
-- Local storage
-- Favicon handling
-- Dynamic interface
-- Manifest V3
-
-**Stack**
-
-`JavaScript` `Chrome Extension API`
+<p>
+A browser extension designed to save and organize
+useful product leads while browsing.
+</p>
 
 <br>
 
-<a href="https://github.com/oweshrza9-svg">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-25251d?style=for-the-badge">
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🧠 Chimera
-
-### AI Goal Execution System
-
-An AI-powered system designed to turn goals into actionable execution plans.
+### What it does
 
 ```text
-GOAL
- ↓
-ROADMAP
- ↓
-TASKS
- ↓
-PROGRESS
- ↓
-RESULT
-
-<!--
-**oweshrza9-svg/oweshrza9-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Browse
+   ↓
+Capture
+   ↓
+Save
+   ↓
+Organize

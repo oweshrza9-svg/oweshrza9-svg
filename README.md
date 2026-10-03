@@ -1,23 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161616,50:713b12,100:d0783f&height=180&section=header&text=OVESH%20SIDDIQUI&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn"/>
+# 👋 Hey, I'm Ovesh Siddiqui
 
-<h2>Frontend Developer • AI & Software Engineering</h2>
+### Frontend Developer • AI & Software Engineering
 
-<p>
-I build interactive web experiences and I'm currently moving deeper into
-<br>
-<strong>AI, LLMs and full-stack development.</strong>
-</p>
+**Building interactive products while moving toward AI engineering.**
 
 <br>
 
 <a href="https://github.com/oweshrza9-svg">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-oweshrza9--svg-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 &nbsp;
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
@@ -27,49 +23,41 @@ I build interactive web experiences and I'm currently moving deeper into
 <table>
 <tr>
 
-<td width="35%" align="center" valign="top">
+<td width="30%" align="center" valign="top">
 
-<img src="https://github.com/oweshrza9-svg.png" width="190"/>
+<img src="https://github.com/oweshrza9-svg.png" width="200">
 
 <br><br>
 
-# Ovesh Siddiqui
+## Ovesh Siddiqui
 
-### 🇮🇳 India
+🇮🇳 **India**
 
-`Frontend Developer`
+💻 Frontend Developer
 
-`AI Explorer`
+🤖 AI Explorer
 
-`Builder`
+🎓 BCA Student
 
 <br>
 
-### Currently
+**Currently building**
 
-🟢 **Building Aether**
+### Aether
 
-🤖 AI Desktop Companion
+`AI Desktop Companion`
 
 </td>
 
-<td width="65%" valign="top">
+<td width="70%" valign="top">
 
-# Hey 👋
+# About Me
 
-I'm **Ovesh**, a frontend developer who enjoys turning ideas into
-interactive products.
+I'm a frontend developer who enjoys building **interactive and visually interesting products** rather than stopping at tutorial projects.
 
-I started with frontend development and I'm now expanding toward
-**backend development, Python and AI engineering.**
+I'm currently expanding from frontend development into **backend, Python, AI/ML, LLMs and RAG**.
 
-### 🔭 Currently working on
-
-**Aether** — an AI desktop companion exploring:
-
-`LLM` `Memory` `Voice` `Avatars` `Automation`
-
-### 🌱 Currently learning
+### 🌱 Learning
 
 `JavaScript` `React` `TypeScript` `Python`
 
@@ -77,9 +65,13 @@ I started with frontend development and I'm now expanding toward
 
 `AI / ML` `LLMs` `RAG` `AI Agents`
 
-### ⚡ I like building
+### 🎯 Goal
 
-Things that are more interesting than another Todo App.
+**Full-Stack AI Engineer**
+
+### ⚡ Currently
+
+Building **Aether**, an AI desktop companion, while continuing to sharpen my frontend and JavaScript skills.
 
 </td>
 
@@ -88,101 +80,116 @@ Things that are more interesting than another Todo App.
 
 ---
 
-# 🧰 Languages & Tools
+# 🛠️ Languages & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,express,mongodb,mysql,python,java,c,cpp,git,github,vscode&perline=9"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,express,mongodb,mysql,python,java,c,cpp,git,github,vscode&perline=9">
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
 <table>
-   
 <tr>
 
 <td width="50%" valign="top">
 
-<h2>🍽️ Apito's Restaurant</h2>
+## 🍽️ Apito's Restaurant
 
-<p><strong>Premium Restaurant Showcase</strong></p>
+### Premium Restaurant Experience
 
-<p>
-A responsive restaurant experience built with
-<strong>Vanilla JavaScript</strong>.
-</p>
+A responsive restaurant showcase built with **Vanilla JavaScript**.
 
-<img src="https://github.com/oweshrza9-svg/Restourount-showcase-app/raw/main/img/hero-mid-img.jpg" width="100%"/>
+**What I built**
 
-<br><br>
+- Dynamic menu rendering
+- Interactive carousel
+- Top-rated dishes
+- Bento-style layout
+- Responsive design
+- DOM interactions
+- Animated popups
 
 `HTML` `CSS` `JavaScript`
-
-<br><br>
-
-• Dynamic menu rendering  
-• Interactive carousel  
-• Top-rated dishes  
-• Bento layout  
-• Responsive design  
-• Interactive popups  
 
 <br>
 
 <a href="https://github.com/oweshrza9-svg/Restourount-showcase-app">
-<strong>↗ View Repository</strong>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-d0783f?style=for-the-badge">
 </a>
-
-</td>
-<td width="55%" valign="top">
-
-## 🤖 Aether — AI Desktop Companion
-
-**Aether** is my ongoing project to build an AI companion that actually lives on the desktop rather than being just another chatbot in a browser.
-
-The goal is to create an assistant that can **understand, remember, communicate, and eventually take actions** alongside the user.
-
-### Exploring
-
-🧠 Long-term Memory  
-🎙️ Voice Interaction  
-🤖 LLM-powered Intelligence  
-🖥️ Desktop Interaction  
-🎭 Custom Avatars & Personality  
-⚡ Task Execution & Automation  
-
-### Vision
-
-`UNDERSTAND` → `REMEMBER` → `REASON` → `ACT`
-
-**Status:** 🟢 `ONGOING / IN DEVELOPMENT`
 
 </td>
 
 <td width="50%" valign="top">
 
+## 🗂️ DropVault
 
-<h2>🗂️ DropVault</h2>
+### Dropshipping Lead Manager
 
-<p><strong>Chrome Extension for Dropshipping Leads</strong></p>
+A Chrome extension designed to help dropshippers save and organize useful product leads while browsing.
 
-<p>
-A browser extension designed to save and organize
-useful product leads while browsing.
-</p>
+**What it does**
+
+- Saves useful tabs
+- Stores lead information
+- Local storage
+- Favicon handling
+- Dynamic UI
+- Manifest V3
+
+`JavaScript` `Chrome Extension API`
 
 <br>
 
-### What it does
+<a href="https://github.com/oweshrza9-svg">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-25251d?style=for-the-badge">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🤖 Aether — Ongoing Project
+
+<table>
+<tr>
+
+<td width="38%" align="center" valign="middle">
+
+# A E T H E R
+
+### AI Desktop Companion
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-ONGOING-d0783f?style=for-the-badge">
+
+<br><br>
+
+`LLM` `Memory` `Voice`  
+`Avatars` `Automation`
+
+</td>
+
+<td width="62%" valign="top">
+
+Aether is my ongoing exploration into building an AI companion that **actually lives on the desktop**, rather than being just another chatbot in a browser.
+
+### The idea
+
+Aether should eventually be able to:
 
 ```text
-Browse
-   ↓
-Capture
-   ↓
-Save
-   ↓
-Organize
+UNDERSTAND
+    ↓
+REMEMBER
+    ↓
+REASON
+    ↓
+ACT

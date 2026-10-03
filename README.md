@@ -101,6 +101,7 @@ Things that are more interesting than another Todo App.
 # 🚀 Featured Projects
 
 <table>
+   
 <tr>
 
 <td width="50%" valign="top">
@@ -136,8 +137,33 @@ A responsive restaurant experience built with
 </a>
 
 </td>
+<td width="55%" valign="top">
+
+## 🤖 Aether — AI Desktop Companion
+
+**Aether** is my ongoing project to build an AI companion that actually lives on the desktop rather than being just another chatbot in a browser.
+
+The goal is to create an assistant that can **understand, remember, communicate, and eventually take actions** alongside the user.
+
+### Exploring
+
+🧠 Long-term Memory  
+🎙️ Voice Interaction  
+🤖 LLM-powered Intelligence  
+🖥️ Desktop Interaction  
+🎭 Custom Avatars & Personality  
+⚡ Task Execution & Automation  
+
+### Vision
+
+`UNDERSTAND` → `REMEMBER` → `REASON` → `ACT`
+
+**Status:** 🟢 `ONGOING / IN DEVELOPMENT`
+
+</td>
 
 <td width="50%" valign="top">
+
 
 <h2>🗂️ DropVault</h2>
 

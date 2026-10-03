@@ -193,7 +193,7 @@ REMEMBER
 REASON
     ↓
 ACT
-
+```
 <h2 align="center">🐍 Contribution Activity</h2>
 
 <div align="center">
@@ -201,3 +201,4 @@ ACT
 <img src="https://raw.githubusercontent.com/oweshrza9-svg/oweshrza9-svg/output/github-contribution-grid-snake.svg" width="95%">
 
 </div>
+
